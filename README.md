@@ -2,10 +2,11 @@
 A complete binary classification project using logistic regression on the Breast Cancer dataset. Includes data preprocessing, model training, evaluation with confusion matrix, ROC-AUC, threshold tuning, and visualization ideal for understanding sigmoid-based classifiers.
 
 Libraries Used:-
-Pandas
 
-numbpy
+1)Pandas
 
-Scikit-learn
+2)numbpy
 
-Matplotlib
+3)Scikit-learn
+
+4)Matplotlib
