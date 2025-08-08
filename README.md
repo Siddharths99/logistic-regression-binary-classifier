@@ -22,7 +22,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 CONFUSION MATRIX (Threshold = 0.5)
 
-Confusion Matrix:
  [[70  1]
  [ 2 41]]
 
@@ -48,4 +47,4 @@ Confusion Matrix:
 Confusion Matrix (Threshold = 0.3):
  [[67  4]
  [ 1 42]]
-----
+
