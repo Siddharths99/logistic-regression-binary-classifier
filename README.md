@@ -10,3 +10,11 @@ Libraries Used:-
 3) Scikit-learn
 
 4) Matplotlib
+
+---
+Installation
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+----
+
