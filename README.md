@@ -20,7 +20,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 📊 **Model Evaluation Results**
 
-==================== CONFUSION MATRIX (Threshold = 0.5) ====================
+CONFUSION MATRIX (Threshold = 0.5)
 
                 Predicted
                |   0   |   1   |
@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Actual   ---------------------
          1 |   2   |   41  |
 
-==========================================================================
+-------
 
 🧾 **Classification Report**
 
@@ -48,7 +48,7 @@ Actual   ---------------------
 
 ---
 
-================ CONFUSION MATRIX (Threshold = 0.3 — Tuned) ================
+CONFUSION MATRIX (Threshold = 0.3 — Tuned)
 
                 Predicted
                |   0   |   1   |
@@ -57,4 +57,4 @@ Actual   ---------------------
 Actual   ---------------------
          1 |   1   |   42  |
 
-==========================================================================
+----
