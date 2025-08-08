@@ -17,6 +17,30 @@ Installation
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ----
+Steps Performed
+Data Cleaning: Removed irrelevant columns (id, unnamed).
+
+Label Encoding: Converted target variable ('M' → 1, 'B' → 0).
+
+Train-Test Split: Split into 80% training and 20% testing.
+
+Feature Scaling: Applied StandardScaler for normalization.
+
+Model Training: Built a logistic regression model.
+
+Evaluation Metrics:
+
+Generated Confusion Matrix and Classification Report
+
+Calculated ROC-AUC Score
+
+Threshold Tuning: Tested predictions with a threshold of 0.3.
+
+Visualizations:
+
+ROC Curve
+
+Confusion Matrices for default and tuned thresholds
 
 📊 **Model Evaluation Results**
 
