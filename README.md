@@ -33,11 +33,9 @@ Steps Performed
 
 7.Calculated ROC-AUC Score : Threshold Tuning: Tested predictions with a threshold of 0.3.
 
-Visualizations:
+8.Visualizations: a.ROC Curve
 
-ROC Curve
-
-Confusion Matrices for default and tuned thresholds
+b.Confusion Matrices for default and tuned thresholds
 
 📊 **Model Evaluation Results**
 
