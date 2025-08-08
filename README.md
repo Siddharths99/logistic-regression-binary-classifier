@@ -54,7 +54,7 @@ CONFUSION MATRIX (Threshold = 0.3 — Tuned)
                |   0   |   1   |
            ---------------------
          0 |   67  |   4   |
-Actual   ---------------------
+Actual
          1 |   1   |   42  |
 
 ----
