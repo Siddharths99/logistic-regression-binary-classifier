@@ -37,6 +37,7 @@ Steps Performed
 
 b.Confusion Matrices for default and tuned thresholds
 
+----
 📊 **Model Evaluation Results**
 
 CONFUSION MATRIX (Threshold = 0.5)
