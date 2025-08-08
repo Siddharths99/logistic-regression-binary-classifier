@@ -31,7 +31,7 @@ Actual   ---------------------
 
 -------
 
-🧾 **Classification Report**
+ **Classification Report**
 
 | Class | Precision | Recall | F1-score | Support |
 |-------|-----------|--------|----------|---------|
