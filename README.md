@@ -22,12 +22,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 CONFUSION MATRIX (Threshold = 0.5)
 
-                Predicted
-               |   0   |   1   |
-           ---------------------
-         0 |   70  |   1   |
-Actual   ---------------------
-         1 |   2   |   41  |
+Confusion Matrix:
+ [[70  1]
+ [ 2 41]]
 
 -------
 
@@ -48,13 +45,7 @@ Actual   ---------------------
 
 ---
 
-CONFUSION MATRIX (Threshold = 0.3 — Tuned)
-
-                Predicted
-               |   0   |   1   |
-           ---------------------
-         0 |   67  |   4   |
-Actual
-         1 |   1   |   42  |
-
+Confusion Matrix (Threshold = 0.3):
+ [[67  4]
+ [ 1 42]]
 ----
